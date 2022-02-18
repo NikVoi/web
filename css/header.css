@@ -1,0 +1,64 @@
+.header {
+  background-color: #161b25;
+  height: 1500px;
+}
+.conteiner__header {
+  display: flex;
+  width: 2020px;
+  height: 100%;
+  padding: 260px 330px 240px 0px;
+}
+
+.grey {
+    margin-left: 230px;
+    width: 1000px;
+    height: 1500px;
+    background-color: #21252F;
+}
+
+.main.inf {
+  display: block;
+}
+
+.naming {
+  padding-left: 130px;
+}
+
+.naming h1 {
+  font-weight: 600;
+  font-style: "Poppins SemiBold";
+  font-size: 150px;
+}
+
+.naming h2 {
+  padding-top: 15px;
+  width: 533px;
+  height: 98px;
+  border: 1px solid none;
+  background: #2d323b;
+  text-align: center;
+  font-size: 75px;
+  font-weight: 500;
+}
+
+.info {
+  line-height: 1.2;
+  width: 1033px;
+  height: 304px;
+  display: flex;
+  padding-top: 140px;
+  padding-left: 130px;
+}
+
+.telmail {
+  font-style: "Poppins SemiBold";
+  font-weight: 600;
+}
+
+.tel {
+  font-size: 42px;
+  padding: 0 80px 169px 0;
+}
+.mail {
+  font-size: 42px;
+}
